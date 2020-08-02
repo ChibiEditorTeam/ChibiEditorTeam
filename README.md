@@ -17,7 +17,7 @@
 
 ### Bêta-Testeurs
 
-- askuu
+- askuuu
 - Nydos
 - TheMadLyo
 - LaRafale
