@@ -31,7 +31,7 @@
 - Neox
 - Nydos
 - TheMadLyo
-- UFOrigin
+- UFOgin
 - Moustache
 - Hey ^^
 - Varssenil
