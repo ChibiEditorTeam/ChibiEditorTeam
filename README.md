@@ -4,7 +4,7 @@
 
 - Rémy Trash
 - MTG
-- Quenosy
+- Qenosy
 
 ### Graphistes :
 
