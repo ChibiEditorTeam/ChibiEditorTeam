@@ -35,3 +35,8 @@
 - Moustache
 - Hey ^^
 - Varssenil
+
+### Contributeurs
+
+Un grand merci à Loris pour nous avoir aidés en nous cédant de nombreux éléments Trash de sa création.
+#### Twitter : @EpicLoris
