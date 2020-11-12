@@ -26,6 +26,10 @@
 - Hey ^^
 - Hugo ;)
 - Varssenil
+- BOBsonic459
+- [🎭] befenoîfoî
+- BlueOctopus
+- Etheriouse
 
 ### Suggestions
 
