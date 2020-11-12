@@ -5,6 +5,7 @@
 - Rémy Trash
 - MTG
 - Qenosy
+- Moustache
 
 ### Graphistes :
 
@@ -40,3 +41,13 @@
 
 Un grand merci à Loris pour nous avoir aidés en nous cédant de nombreux éléments Trash en sa possession et de nous avoir guidés dans les démarches et l'utilisation de ces ressources graphiques.
 #### Twitter : @EpicLoris
+
+#### Fondateur de ChibiEditor : Rémy Trash
+#### Développeur ChibiEditor PC : Rémy Trash
+
+#### Développeur Bot : MTG
+#### Développeur ChibiEditor Android : MTG
+
+#### Référent ChibiEditor iOS : Moustache
+#### Référent ChibiEditor Online : Moustache
+#### Maintien du GitHub : Moustache
