@@ -48,7 +48,8 @@ Un grand merci à Loris pour nous avoir aidés en nous cédant de nombreux élé
 #### Twitter : @EpicLoris
 
 Merci à Chibi Team (Ascul et Deeco) pour nous avoir donné accès à leurs éléments custom…
-### Discord : https://discord.gg/qYnnRj3UXh
+#### Discord : https://discord.gg/qYnnRj3UXh
+
 ### Domaines (autres attributions)
 
 #### Fondateur de ChibiEditor : Rémy Trash
