@@ -5,7 +5,6 @@
 - Rémy Trash
 - MTG
 - Qenosy
-- Moustache
 
 ### Graphistes :
 
