@@ -14,7 +14,7 @@
 - Clapseur
 - Hey ^^
 - Mart1
-- Ascul
+- ASCUL
 
 ### Bêta-Testeurs
 
