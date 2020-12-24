@@ -46,6 +46,9 @@
 Un grand merci à Loris pour nous avoir aidés en nous cédant de nombreux éléments Trash en sa possession et de nous avoir guidés dans les démarches et l'utilisation de ces ressources graphiques.
 #### Twitter : @EpicLoris
 
+Merci infiniment à AlluringEnt qui héberge le BOT ChibiEditor sur ses serveurs.
+#### Son projet d'hébergement : https://webiaty.fr
+
 Merci à Chibi Team (Ascul et Deeco) pour nous avoir donné accès à leurs éléments custom…
 #### Discord : https://discord.gg/qYnnRj3UXh
 
