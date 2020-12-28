@@ -18,28 +18,21 @@
 
 ### Bêta-Testeurs
 
-- askuuu
-- Nydos
 - TheMadLyo
 - LaRafale
 - Moustache
 - Hey ^^
 - Hugo ;)
-- Varssenil
 - BOBsonic459
 - [🎭] befenoîfoî
-- BlueOctopus
 - Etheriouse
 
 ### Suggestions
 
 - Neox
-- Nydos
 - TheMadLyo
-- UFOgin
 - Moustache
 - Hey ^^
-- Varssenil
 
 ### Contributeurs
 
