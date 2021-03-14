@@ -3,8 +3,9 @@
 ### Administration :
 
 - Rémy Trash
-- MTG
 - Qenosy
+- MTG
+- Moustache
 
 ### Graphistes :
 
