@@ -13,8 +13,6 @@
 - Moustache
 - PlayCraft
 - Clapseur
-- Hey ^^
-- Mart1
 - ASCUL
 
 ### Bêta-Testeurs
@@ -23,6 +21,7 @@
 - Moustache
 - [🎭] befenoîfoî
 - Etheriouse
+- Clapseur
 - MisteRatchet
 
 ### Contributeurs
@@ -53,7 +52,6 @@ Merci à Chibi Team (Ascul et Deeco) pour nous avoir donné accès à leurs él�
 ### Graphistes
 
 - PlayCraft
-- Clapseur
 - Hey ^^
 - Mart1
 
