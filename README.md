@@ -19,21 +19,11 @@
 
 ### Bêta-Testeurs
 
-- TheMadLyo
-- LaRafale
-- Moustache
-- Hey ^^
-- Hugo ;)
 - BOBsonic459
+- Moustache
 - [🎭] befenoîfoî
 - Etheriouse
-
-### Suggestions
-
-- Neox
-- TheMadLyo
-- Moustache
-- Hey ^^
+- MisteRatchet
 
 ### Contributeurs
 
@@ -57,3 +47,25 @@ Merci à Chibi Team (Ascul et Deeco) pour nous avoir donné accès à leurs él�
 #### Référent ChibiEditor iOS : Moustache
 #### Référent ChibiEditor Online : Moustache
 #### Maintien du GitHub : Moustache
+
+## Anciens membres
+
+### Graphistes
+
+- PlayCraft
+- Clapseur
+- Hey ^^
+- Mart1
+
+### Bêta-Testeurs
+
+- TheMadLyo
+- LaRafale
+- Hey ^^
+- Hugo ;)
+
+### Suggestions
+
+- Neox
+- TheMadLyo
+- Hey ^^
