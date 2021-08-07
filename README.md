@@ -18,7 +18,7 @@
 
 - BOBsonic459
 - Moustache
-- [🎭] befenoîfoî
+- befenoîfoî
 - Etheriouse
 - Clapseur
 - MisteRatchet
