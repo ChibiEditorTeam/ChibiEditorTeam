@@ -35,9 +35,6 @@ Merci à Ascul et Deeco pour nous avoir donné accès à leurs éléments custom
 #### Fondateur de ChibiEditor : Rémy Trash
 #### Développeur ChibiEditor PC : Rémy Trash
 
-#### Développeur Bot : MTG
-#### Développeur ChibiEditor Android : MTG
-
 #### Référent ChibiEditor iOS : Moustache
 #### Référent ChibiEditor Online : Moustache
 #### Maintien du GitHub : Moustache
