@@ -1,5 +1,7 @@
 [![Discord](https://img.shields.io/badge/Join%20our-Discord-5865F2?logo=discord&link=https://discord.gg/vtavcAH)](https://discord.gg/vtavcAH)
 
+![ChibiEditorXPbanner](https://chibieditorteam.github.io/img/xpBackgroundWS.png)
+
 # Liste des membres
 
 ### Administration :
