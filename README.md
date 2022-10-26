@@ -2,7 +2,7 @@
 
 ![ChibiEditorXPbanner](https://chibieditorteam.github.io/img/xpBackgroundWS.png)
 
-# Liste des membres
+# Liste des (anciens) membres
 
 ### Administration :
 
@@ -30,7 +30,7 @@
 ### Contributeurs
 
 Un grand merci à Loris pour nous avoir aidés en nous cédant de nombreux éléments Trash en sa possession et de nous avoir guidés dans les démarches et l'utilisation de ces ressources graphiques.
-#### Twitter : @EpicLoris
+#### Twitter : [@EpicLoris](https://twitter.com/EpicLoris)
 
 Merci à Ascul et Deeco pour nous avoir donné accès à leurs éléments custom…
 
